@@ -32,20 +32,20 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Qapper, Version=1.0.3.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Qapper.1.0.3\lib\net461\Qapper.dll</HintPath>
+    <Reference Include="Qapper, Version=1.0.5.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Qapper.1.0.5\lib\net461\Qapper.dll</HintPath>
+    </Reference>
+    <Reference Include="QSchema.Attributes, Version=1.0.8.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\QSchema.Attributes.1.0.8\lib\net461\QSchema.Attributes.dll</HintPath>
+    </Reference>
+    <Reference Include="QSchema.SchemaBuilder, Version=1.0.8.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\QSchema.SchemaBuilder.1.0.8\lib\net461\QSchema.SchemaBuilder.dll</HintPath>
     </Reference>
     <Reference Include="qsharp.core.netstandard, Version=2.3.1.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\qsharp.core.netstandard.2.3.1\lib\net461\qsharp.core.netstandard.dll</HintPath>
     </Reference>
     <Reference Include="qsharp.netstandard, Version=2.3.1.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\qsharp.netstandard.2.3.1\lib\net461\qsharp.netstandard.dll</HintPath>
-    </Reference>
-    <Reference Include="QTools, Version=1.0.6.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\QTools.1.0.6\lib\net461\QTools.dll</HintPath>
-    </Reference>
-    <Reference Include="QTools.Schema, Version=1.0.5.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\QTools.Schema.1.0.5\lib\net461\QTools.Schema.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

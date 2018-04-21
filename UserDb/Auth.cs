@@ -1,4 +1,4 @@
-﻿using QTools.Schema;
+﻿using DotnetQ.QSchema.Attributes;
 
 namespace Auth
 {

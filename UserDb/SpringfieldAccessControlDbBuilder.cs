@@ -1,6 +1,6 @@
-﻿using Qapper;
+﻿using DotnetQ.Qapper;
+using DotnetQ.QSchema;
 using qSharp;
-using QTools;
 using System;
 using System.IO;
 

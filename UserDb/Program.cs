@@ -1,4 +1,4 @@
-﻿using Qapper;
+﻿using DotnetQ.Qapper;
 using qSharp;
 using System;
 using System.Linq;
