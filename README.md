@@ -1,7 +1,7 @@
 # Example
 
-A worked example of an Access Control List, implemented with [QTools](https://github.com/machonky/qtools), 
-[Qapper](https://github.com/machonky/Qapper) and [QSharp](https://github.com/machonky/qsharp.netstandard).
+A worked example of an Access Control List, implemented with [QSchema](https://github.com/dotnetq/QSchema), 
+[Qapper](https://github.com/dotnetq/Qapper) and [QSharp](https://github.com/dotnetq/qsharp.netstandard).
 
 The example is based upon the [CodeProject](https://www.codeproject.com) article [Lightning-Fast Access Control Lists in C#](https://www.codeproject.com/Articles/1056853/Lightning-Fast-Access-Control-Lists-in-Csharp) 
 where the ACL is backed by a kdb+ database. 
